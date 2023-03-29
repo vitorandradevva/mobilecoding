@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Onde_Parei</string>
+    <string name="titulo">Onde Parei?</string>
+    <string name="titestac">Onde Estacionei</string>
+    <string name="meuloc">Onde Estou Agora</string>
+    <string name="carroloc">Local onde o carro está</string>
+    <string name="titposicao">Minha posição atual</string>
+</resources>
